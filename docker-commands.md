@@ -3,4 +3,4 @@
 2. docker run <image> //runs docker image
 3. docker ps // lists running containers
 4. docker stop <container_id> //stop container
-5. docekr logs <container_id> // see container output
+5. docekr logs <container_id> // see container out
